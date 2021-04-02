@@ -17,6 +17,7 @@ import createChoroplethTests from './choropleth-tests';
 import createTreeMapTests from './tree-map-tests';
 
 // test deploy
+// test close pr
 
 let projectsPath = `file:///${path
   .resolve('./build/pages/')
