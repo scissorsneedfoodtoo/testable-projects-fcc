@@ -16,6 +16,8 @@ import createHeatMapTests from './heat-map-tests';
 import createChoroplethTests from './choropleth-tests';
 import createTreeMapTests from './tree-map-tests';
 
+// this should not cause deploy
+
 let projectsPath = `file:///${path
   .resolve('./build/pages/')
   .split(path.sep)
